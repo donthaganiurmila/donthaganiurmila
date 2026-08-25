@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I am Urmila 👋
 
-<!--
-**donthaganiurmila/donthaganiurmila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer 
+⏳Currently learning JavaScript,React
+🎓Strong Foundation in Java,JDBC, Hibernate, Springboot and in MySQL
+🚀Interested in Full- stack Development 
 
-Here are some ideas to get you started:
+##  Skills
+Java | JDBC | Hibernate| Springboot| MySQL| HTML| CSS |JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  📌 Projects 
+• QR-Based Restaurant Table ordering System
+• UPI Banking console application 
+
+## Currently Learning 
+• React
+• Rest APIs
+• DSA 
+
+## Connect with me
+✉️ Email : donthaganiurmila@gmail.com
+
